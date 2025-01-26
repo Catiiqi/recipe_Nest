@@ -1,7 +1,3 @@
-Here's the updated README with different icons:  
-
----
-
 # 🍲 Recipe Nest - Your Ultimate Recipe Companion 🥗  
 Simplifying recipe discovery, organization, and sharing with a user-friendly, cross-platform experience.  
 
